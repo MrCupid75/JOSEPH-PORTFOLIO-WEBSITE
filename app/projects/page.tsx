@@ -53,7 +53,7 @@ export default function Projects() {
       category: "Process Engineering",
     },
     {
-      title: "Renewable Energy Market API",
+      title: "EcoGRID-Renewable Energy Market API",
       description:
         "AI-optimized API built with Node.js that provides solar installation packages to customers based on their consumption capacity. Features intelligent recommendation algorithms and real-time energy consumption analysis.",
       image: "/Energy market.JPG?height=300&width=500",
@@ -64,7 +64,7 @@ export default function Projects() {
         "REST API",
         "Solar Energy",
       ],
-      liveUrl: "https://github.com/XCUXION-ECOGRID/ECOGRID.git",
+      liveUrl: "https://ecogrid-1.onrender.com/api/v1/docs/",
       githubUrl: "#",
       date: "2024",
       category: "Backend Development",
